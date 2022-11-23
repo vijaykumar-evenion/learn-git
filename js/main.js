@@ -1,1 +1,3 @@
-mahesh
+(function () {
+    alert("Project Started");
+})()
